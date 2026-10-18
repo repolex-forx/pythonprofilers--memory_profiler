@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pythonprofilers/memory_profiler/commit/fdf104d652a1d2b15a0a7af0d9bc91c6331845cc",
       "git:hexsha": "fdf104d652a1d2b15a0a7af0d9bc91c6331845cc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pythonprofilers/memory_profiler/commit/5b9a1019411cc20c77b1b78b352e123e30c78a85",

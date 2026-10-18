@@ -1,0 +1,11 @@
+{
+  "org": "pythonprofilers",
+  "repo": "memory_profiler",
+  "versions": [
+    {
+      "commit": "fdf104d652a1d2b15a0a7af0d9bc91c6331845cc",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:29:53.096235+00:00"
+    }
+  ]
+}
